@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SkillUp Academy - Course Registration</title>
+    <meta name="description" content="Register for certification courses at SkillUp Academy.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+<header>
+    <h1>SkillUp Academy</h1>
+    <nav>
+        <a href="#">Home</a> |
+        <a href="#">Courses</a> |
+        <a href="#">About</a> |
+        <a href="#register">Register</a>
+    </nav>
+</header>
+
+<main>
+
+<section>
+    <h2>Course Introduction</h2>
+    <p>Please watch the introduction video before enrolling.</p>
+
+    <video width="600" controls poster="course-poster.jpg">
+        <source src="intro.mp4" type="video/mp4">
+        <source src="intro.webm" type="video/webm">
+        <track src="subtitles.vtt" kind="subtitles" srclang="en" label="English">
+        Your browser does not support the video tag.
+    </video>
+</section>
+
+<section id="register">
+    <h2>Course Registration Form</h2>
+
+    <label>Enrollment Progress:</label>
+    <progress value="40" max="100"></progress>
+    <br><br>
+
+    <form action="#" method="post">
+
+        <label for="name">Full Name:</label>
+        <input type="text" id="name" name="fullname" required>
+        <br><br>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <br><br>
+
+        <label for="course">Select Course:</label>
+        <input list="courseList" id="course" name="course" required>
+        <datalist id="courseList">
+            <option value="Full Stack Web Development">
+            <option value="Data Science & Analytics">
+            <option value="Artificial Intelligence">
+            <option value="Cloud Computing">
+            <option value="Cyber Security">
+        </datalist>
+        <br><br>
+
+        <label for="batch">Select Batch Month:</label>
+        <input type="month" id="batch" name="batch" required>
+        <br><br>
+
+        <label for="session">Preferred Session Time:</label>
+        <input type="time" id="session" name="session" required>
+        <br><br>
+
+        <label for="skill">Rate Your Skill Level (1-10):</label>
+        <input type="range" id="skill" name="skill" min="1" max="10" required>
+        <br><br>
+        
+        <label>
+            <input type="checkbox" required>
+            I have watched the introduction video and agree to enroll.
+        </label>
+        <br><br>
+
+        <input type="submit" value="Enroll Now">
+
+    </form>
+
+</section>
+
+</main>
+
+<footer>
+    <p>Contact: support@skillupacademy.com | +91 9876543210</p>
+    <p>&copy; 2026 SkillUp Academy. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>

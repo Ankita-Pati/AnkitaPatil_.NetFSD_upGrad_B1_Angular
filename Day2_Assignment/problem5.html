@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SecureBank - Savings Account Opening</title>
+    <meta name="description" content="Open your savings account online securely with SecureBank.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+<header>
+    <h1>SecureBank</h1>
+    <nav>
+        <a href="#">Home</a> |
+        <a href="#">Accounts</a> |
+        <a href="#">Loans</a> |
+        <a href="#">Contact</a>
+    </nav>
+</header>
+
+<main>
+<section>
+    <h2>Online Savings Account Opening Form</h2>
+
+    <form action="#" method="post" enctype="multipart/form-data">
+
+        <label for="fullname">Full Name:</label>
+        <input type="text" id="fullname" name="fullname" required>
+        <br><br>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <br><br>
+
+        <label for="phone">Phone Number:</label>
+        <input type="tel" id="phone" name="phone"
+               pattern="[0-9]{10}"
+               title="Enter exactly 10 digits"
+               required>
+        <br><br>
+
+        <label for="pan">PAN Number:</label>
+        <input type="text" id="pan" name="pan"
+               pattern="[A-Z]{5}[0-9]{4}[A-Z]{1}"
+               title="Format: ABCDE1234F"
+               required>
+        <br><br>
+
+        <label for="ifsc">IFSC Code:</label>
+        <input type="text" id="ifsc" name="ifsc"
+               pattern="[A-Z]{4}[0-9]{7}"
+               title="Format: ABCD1234567"
+               required>
+        <br><br>
+
+        <label for="account">Account Type:</label>
+        <input list="accountTypes" id="account" name="account" required>
+        <datalist id="accountTypes">
+            <option value="Savings Account">
+            <option value="Salary Account">
+            <option value="Senior Citizen Account">
+            <option value="Student Savings Account">
+        </datalist>
+        <br><br>
+
+        <label for="dob">Date of Birth:</label>
+        <input type="date" id="dob" name="dob"
+               max="2008-02-17"
+               required>
+        <br><br>
+
+        <label for="income">Monthly Income:</label>
+        <input type="number" id="income" name="income"
+               min="0" step="1000" required>
+        <br><br>
+
+        <label for="idproof">Upload ID Proof:</label>
+        <input type="file" id="idproof" name="idproof"
+               accept=".pdf,.jpg,.png"
+               required>
+        <br><br>
+
+        <input type="submit" value="Open Account">
+
+    </form>
+</section>
+</main>
+
+<footer>
+    <p>Customer Support: support@securebank.com | +91 9876543210</p>
+    <p>&copy; 2026 SecureBank. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
