@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SecureBank Dashboard</title>
+    <link rel="stylesheet" href="problem4.css">
+    <style>
+        #balance-highlight {
+            background-color: #d4edda;
+            color: #155724;
+            font-size: 20px;
+            font-weight: bold;
+            padding: 15px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div style="background-color:#ffcccc; color:#900; padding:10px; text-align:center;">
+        ⚠️ System maintenance scheduled at 12:00 AM
+    </div>
+    <header>
+        <h1>SecureBank</h1>
+        <button>Logout</button>
+    </header>
+
+    <div class="dashboard">
+        <aside class="sidebar">
+            <ul>
+                <li>Dashboard</li>
+                <li>Accounts</li>
+                <li>Transfers</li>
+                <li>Settings</li>
+            </ul>
+        </aside>
+
+        <main class="main-content">
+
+            <section class="summary">
+                <div class="card">
+                    <h3>Savings Account</h3>
+                    <p id="balance-highlight">₹1,25,000</p>
+                </div>
+
+                <div class="card">
+                    <h3>Current Account</h3>
+                    <p>₹75,000</p>
+                </div>
+
+                <div class="card">
+                    <h3>Fixed Deposit</h3>
+                    <p>₹2,00,000</p>
+                </div>
+            </section>
+
+            <section class="transactions">
+                <h2>Recent Transactions</h2>
+
+                <table>
+                    <tr>
+                        <th>Date</th>
+                        <th>Description</th>
+                        <th>Type</th>
+                        <th>Amount</th>
+                    </tr>
+
+                    <tr>
+                        <td>10 Feb 2026</td>
+                        <td>Amazon Purchase</td>
+                        <td class="debit">Debit</td>
+                        <td class="debit">- ₹2,000</td>
+                    </tr>
+
+                    <tr>
+                        <td>09 Feb 2026</td>
+                        <td>Salary Credit</td>
+                        <td class="credit">Credit</td>
+                        <td class="credit">+ ₹50,000</td>
+                    </tr>
+
+                    <tr>
+                        <td>08 Feb 2026</td>
+                        <td>Electricity Bill</td>
+                        <td class="debit">Debit</td>
+                        <td class="debit">- ₹3,500</td>
+                    </tr>
+                </table>
+            </section>
+            <section class="login-form">
+                <h2>Quick Login</h2>
+                <form>
+                    <input type="text" placeholder="Username"><br><br>
+                    <input type="password" placeholder="Password"><br><br>
+                    <button type="submit">Login</button>
+                </form>
+            </section>
+
+        </main>
+    </div>
+
+    <footer>
+        <p>© 2026 SecureBank | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>

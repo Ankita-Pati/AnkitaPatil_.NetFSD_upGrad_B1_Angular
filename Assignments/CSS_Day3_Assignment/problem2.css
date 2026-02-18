@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-color: #004080;
+    padding: 15px;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 20px;
+    color: white;
+    cursor: pointer;
+}
+
+li:first-child {
+    color: yellow;
+}
+
+#hero {
+    background-color: #cce6ff;
+    text-align: center;
+    padding: 50px;
+}
+
+#hero button {
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none;
+    background-color: #004080;
+    color: white;
+    cursor: pointer;
+}
+
+a:hover {
+    color: red;
+}
+
+.courses {
+    text-align: center;
+    padding: 40px;
+}
+
+.course {
+    display: inline-block;        
+    width: 250px;                
+    border: 2px solid #004080;   
+    padding: 20px;                
+    margin: 15px;                
+    background-color: #f2f9ff;
+    transition: 0.3s;
+}
+
+.course > h3 {
+    color: #004080;
+}
+
+h3 + p {
+    color: #333;
+    margin-top: 10px;
+}
+
+.course:hover {
+    background-color: #d9f0ff;
+    transform: scale(1.05);
+}
+
+.course:first-of-type {
+    background-color: #fff3cd;
+}
+
+.course:last-of-type {
+    background-color: #d4edda;
+}
+
+.testimonials {
+    background-color: #e6f2ff;
+    padding: 40px;
+    text-align: center;
+}
+
+footer {
+    background-color: #00264d;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
