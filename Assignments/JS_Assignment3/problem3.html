@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Location-Based Weather Logger</title>
+</head>
+<body onload="loadHistory()">
+
+    <h2>📍 Location Logger</h2>
+    <button onclick="getLocation()">Get My Location</button>
+    <h3>Current Location</h3>
+    <p id="currentLocation"></p>
+    <h3>Location History (Last 5)</h3>
+    <ul id="historyList"></ul>
+    <p id="message"></p>
+
+<script>
+
+function getLocation() {
+
+    if (navigator.geolocation) {
+
+        navigator.geolocation.getCurrentPosition(
+            showPosition,    
+            showError,        
+            { timeout: 10000 } 
+        );
+
+    } else {
+        document.getElementById("message").innerHTML =
+        "❌ Geolocation is not supported by this browser.";
+    }
+}
+
+function showPosition(position) {
+
+    let latitude = position.coords.latitude;
+    let longitude = position.coords.longitude;
+
+    document.getElementById("currentLocation").innerHTML =
+        "Latitude: " + latitude + "<br>Longitude: " + longitude;
+
+    let newEntry = {
+        lat: latitude,
+        long: longitude,
+        time: new Date().toLocaleString()
+    };
+
+    let history = JSON.parse(localStorage.getItem("locationHistory")) || [];
+
+    history.unshift(newEntry); 
+
+    if (history.length > 5) {
+        history = history.slice(0, 5);
+    }
+
+    localStorage.setItem("locationHistory", JSON.stringify(history));
+
+    loadHistory();
+}
+
+function showError(error) {
+
+    switch(error.code) {
+
+        case error.PERMISSION_DENIED:
+            document.getElementById("message").innerHTML =
+            "❌ Permission denied by user.";
+            break;
+
+        case error.POSITION_UNAVAILABLE:
+            document.getElementById("message").innerHTML =
+            "❌ Location information unavailable.";
+            break;
+
+        case error.TIMEOUT:
+            document.getElementById("message").innerHTML =
+            "❌ Location request timed out.";
+            break;
+
+        default:
+            document.getElementById("message").innerHTML =
+            "❌ Unknown error occurred.";
+    }
+}
+function loadHistory() {
+
+    let history = JSON.parse(localStorage.getItem("locationHistory")) || [];
+
+    let list = document.getElementById("historyList");
+    list.innerHTML = "";
+
+    history.forEach(function(item) {
+        let li = document.createElement("li");
+        li.innerHTML =
+        "Lat: " + item.lat +
+        ", Long: " + item.long +
+        " (" + item.time + ")";
+        list.appendChild(li);
+    });
+}
+
+</script>  
+</body>
+</html>
