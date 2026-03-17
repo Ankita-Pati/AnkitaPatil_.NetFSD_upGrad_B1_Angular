@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CTS.NET\\Assignments\\C#ExpectionHandlingAssignment6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21E643C1-29B0-4EE7-9BAB-3F012599E3D0}|C#ExpectionHandlingAssignment6.csproj|d:\\cts.net\\assignments\\c#expectionhandlingassignment6\\exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E643C1-29B0-4EE7-9BAB-3F012599E3D0}|C#ExpectionHandlingAssignment6.csproj|solutionrelative:exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E643C1-29B0-4EE7-9BAB-3F012599E3D0}|C#ExpectionHandlingAssignment6.csproj|d:\\cts.net\\assignments\\c#expectionhandlingassignment6\\c#expectionhandlingassignment6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21E643C1-29B0-4EE7-9BAB-3F012599E3D0}|C#ExpectionHandlingAssignment6.csproj|solutionrelative:c#expectionhandlingassignment6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E643C1-29B0-4EE7-9BAB-3F012599E3D0}|C#ExpectionHandlingAssignment6.csproj|d:\\cts.net\\assignments\\c#expectionhandlingassignment6\\exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E643C1-29B0-4EE7-9BAB-3F012599E3D0}|C#ExpectionHandlingAssignment6.csproj|solutionrelative:exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "C#ExpectionHandlingAssignment6",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\C#ExpectionHandlingAssignment6\\C#ExpectionHandlingAssignment6.csproj",
+              "RelativeDocumentMoniker": "C#ExpectionHandlingAssignment6.csproj",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\C#ExpectionHandlingAssignment6\\C#ExpectionHandlingAssignment6.csproj",
+              "RelativeToolTip": "C#ExpectionHandlingAssignment6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T09:50:14.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise2.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\C#ExpectionHandlingAssignment6\\Exercise2.cs",
+              "RelativeDocumentMoniker": "Exercise2.cs",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\C#ExpectionHandlingAssignment6\\Exercise2.cs",
+              "RelativeToolTip": "Exercise2.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T09:53:26.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercise1.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\C#ExpectionHandlingAssignment6\\Exercise1.cs",
+              "RelativeDocumentMoniker": "Exercise1.cs",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\C#ExpectionHandlingAssignment6\\Exercise1.cs",
+              "RelativeToolTip": "Exercise1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T09:45:37.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
