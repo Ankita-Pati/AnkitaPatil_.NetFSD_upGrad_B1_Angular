@@ -1,0 +1,6 @@
+Student Name: Ankita
+Roll Number: 6
+Marks: 95,97,98
+Total: 290
+Average: 96.66666666666667
+Grade: A

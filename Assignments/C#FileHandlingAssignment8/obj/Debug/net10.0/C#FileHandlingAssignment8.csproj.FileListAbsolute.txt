@@ -1,0 +1,15 @@
+D:\CTS.NET\Assignments\C#FileHandlingAssignment8\bin\Debug\net10.0\C#FileHandlingAssignment8.exe
+D:\CTS.NET\Assignments\C#FileHandlingAssignment8\bin\Debug\net10.0\C#FileHandlingAssignment8.deps.json
+D:\CTS.NET\Assignments\C#FileHandlingAssignment8\bin\Debug\net10.0\C#FileHandlingAssignment8.runtimeconfig.json
+D:\CTS.NET\Assignments\C#FileHandlingAssignment8\bin\Debug\net10.0\C#FileHandlingAssignment8.dll
+D:\CTS.NET\Assignments\C#FileHandlingAssignment8\bin\Debug\net10.0\C#FileHandlingAssignment8.pdb
+D:\CTS.NET\Assignments\C#FileHandlingAssignment8\obj\Debug\net10.0\C#FileHandlingAssignment8.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS.NET\Assignments\C#FileHandlingAssignment8\obj\Debug\net10.0\C#FileHandlingAssignment8.AssemblyInfoInputs.cache
+D:\CTS.NET\Assignments\C#FileHandlingAssignment8\obj\Debug\net10.0\C#FileHandlingAssignment8.AssemblyInfo.cs
+D:\CTS.NET\Assignments\C#FileHandlingAssignment8\obj\Debug\net10.0\C#FileHandlingAssignment8.csproj.CoreCompileInputs.cache
+D:\CTS.NET\Assignments\C#FileHandlingAssignment8\obj\Debug\net10.0\C#FileHandlingAssignment8.sourcelink.json
+D:\CTS.NET\Assignments\C#FileHandlingAssignment8\obj\Debug\net10.0\C#FileHandlingAssignment8.dll
+D:\CTS.NET\Assignments\C#FileHandlingAssignment8\obj\Debug\net10.0\refint\C#FileHandlingAssignment8.dll
+D:\CTS.NET\Assignments\C#FileHandlingAssignment8\obj\Debug\net10.0\C#FileHandlingAssignment8.pdb
+D:\CTS.NET\Assignments\C#FileHandlingAssignment8\obj\Debug\net10.0\C#FileHandlingAssignment8.genruntimeconfig.cache
+D:\CTS.NET\Assignments\C#FileHandlingAssignment8\obj\Debug\net10.0\ref\C#FileHandlingAssignment8.dll
