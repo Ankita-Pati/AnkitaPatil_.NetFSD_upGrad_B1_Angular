@@ -1,0 +1,15 @@
+D:\CTS.NET\Assignments\C#CollectionAssignment7\bin\Debug\net10.0\C#CollectionAssignment7.exe
+D:\CTS.NET\Assignments\C#CollectionAssignment7\bin\Debug\net10.0\C#CollectionAssignment7.deps.json
+D:\CTS.NET\Assignments\C#CollectionAssignment7\bin\Debug\net10.0\C#CollectionAssignment7.runtimeconfig.json
+D:\CTS.NET\Assignments\C#CollectionAssignment7\bin\Debug\net10.0\C#CollectionAssignment7.dll
+D:\CTS.NET\Assignments\C#CollectionAssignment7\bin\Debug\net10.0\C#CollectionAssignment7.pdb
+D:\CTS.NET\Assignments\C#CollectionAssignment7\obj\Debug\net10.0\C#CollectionAssignment7.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS.NET\Assignments\C#CollectionAssignment7\obj\Debug\net10.0\C#CollectionAssignment7.AssemblyInfoInputs.cache
+D:\CTS.NET\Assignments\C#CollectionAssignment7\obj\Debug\net10.0\C#CollectionAssignment7.AssemblyInfo.cs
+D:\CTS.NET\Assignments\C#CollectionAssignment7\obj\Debug\net10.0\C#CollectionAssignment7.csproj.CoreCompileInputs.cache
+D:\CTS.NET\Assignments\C#CollectionAssignment7\obj\Debug\net10.0\C#CollectionAssignment7.sourcelink.json
+D:\CTS.NET\Assignments\C#CollectionAssignment7\obj\Debug\net10.0\C#CollectionAssignment7.dll
+D:\CTS.NET\Assignments\C#CollectionAssignment7\obj\Debug\net10.0\refint\C#CollectionAssignment7.dll
+D:\CTS.NET\Assignments\C#CollectionAssignment7\obj\Debug\net10.0\C#CollectionAssignment7.pdb
+D:\CTS.NET\Assignments\C#CollectionAssignment7\obj\Debug\net10.0\C#CollectionAssignment7.genruntimeconfig.cache
+D:\CTS.NET\Assignments\C#CollectionAssignment7\obj\Debug\net10.0\ref\C#CollectionAssignment7.dll
