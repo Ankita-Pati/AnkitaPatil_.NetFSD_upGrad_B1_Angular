@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CTS.NET\\Assignments\\C#MultiThreadingAssignment10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{152DAE28-48B2-403E-94AE-CDE2618EFC82}|C#MultiThreadingAssignment10.csproj|d:\\cts.net\\assignments\\c#multithreadingassignment10\\c#multithreadingassignment10.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{152DAE28-48B2-403E-94AE-CDE2618EFC82}|C#MultiThreadingAssignment10.csproj|solutionrelative:c#multithreadingassignment10.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{152DAE28-48B2-403E-94AE-CDE2618EFC82}|C#MultiThreadingAssignment10.csproj|d:\\cts.net\\assignments\\c#multithreadingassignment10\\exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{152DAE28-48B2-403E-94AE-CDE2618EFC82}|C#MultiThreadingAssignment10.csproj|solutionrelative:exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{152DAE28-48B2-403E-94AE-CDE2618EFC82}|C#MultiThreadingAssignment10.csproj|d:\\cts.net\\assignments\\c#multithreadingassignment10\\exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{152DAE28-48B2-403E-94AE-CDE2618EFC82}|C#MultiThreadingAssignment10.csproj|solutionrelative:exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{152DAE28-48B2-403E-94AE-CDE2618EFC82}|C#MultiThreadingAssignment10.csproj|d:\\cts.net\\assignments\\c#multithreadingassignment10\\c#multithreadingassignment10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{152DAE28-48B2-403E-94AE-CDE2618EFC82}|C#MultiThreadingAssignment10.csproj|solutionrelative:c#multithreadingassignment10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "C#MultiThreadingAssignment10",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\C#MultiThreadingAssignment10\\C#MultiThreadingAssignment10.csproj",
+              "RelativeDocumentMoniker": "C#MultiThreadingAssignment10.csproj",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\C#MultiThreadingAssignment10\\C#MultiThreadingAssignment10.csproj*",
+              "RelativeToolTip": "C#MultiThreadingAssignment10.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-23T10:54:27.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "C#MultiThreadingAssignment10",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\C#MultiThreadingAssignment10\\C#MultiThreadingAssignment10.csproj",
+              "RelativeDocumentMoniker": "C#MultiThreadingAssignment10.csproj",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\C#MultiThreadingAssignment10\\C#MultiThreadingAssignment10.csproj",
+              "RelativeToolTip": "C#MultiThreadingAssignment10.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-23T10:56:02.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercise2.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\C#MultiThreadingAssignment10\\Exercise2.cs",
+              "RelativeDocumentMoniker": "Exercise2.cs",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\C#MultiThreadingAssignment10\\Exercise2.cs",
+              "RelativeToolTip": "Exercise2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:54:40.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercise1.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\C#MultiThreadingAssignment10\\Exercise1.cs",
+              "RelativeDocumentMoniker": "Exercise1.cs",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\C#MultiThreadingAssignment10\\Exercise1.cs",
+              "RelativeToolTip": "Exercise1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:52:58.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|d:\\cts.net\\c#.net\\handson\\c#linqassignment9\\c#linqassignment9.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|solutionrelative:c#linqassignment9.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|d:\\cts.net\\c#.net\\handson\\c#linqassignment9\\exercise11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|solutionrelative:exercise11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|d:\\cts.net\\c#.net\\handson\\c#linqassignment9\\exercise10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|solutionrelative:exercise10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|d:\\cts.net\\c#.net\\handson\\c#linqassignment9\\c#linqassignment9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|solutionrelative:c#linqassignment9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|d:\\cts.net\\c#.net\\handson\\c#linqassignment9\\exercise9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|solutionrelative:exercise9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|d:\\cts.net\\c#.net\\handson\\c#linqassignment9\\exercise8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|solutionrelative:exercise8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|d:\\cts.net\\c#.net\\handson\\c#linqassignment9\\exercise7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|solutionrelative:exercise7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|d:\\cts.net\\c#.net\\handson\\c#linqassignment9\\exercise6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|solutionrelative:exercise6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|d:\\cts.net\\c#.net\\handson\\c#linqassignment9\\exercise5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|solutionrelative:exercise5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|d:\\cts.net\\c#.net\\handson\\c#linqassignment9\\exercise4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|solutionrelative:exercise4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|d:\\cts.net\\c#.net\\handson\\c#linqassignment9\\exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|solutionrelative:exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|d:\\cts.net\\c#.net\\handson\\c#linqassignment9\\exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|solutionrelative:exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|d:\\cts.net\\c#.net\\handson\\c#linqassignment9\\exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414919EB-E028-4654-AC25-A3F296F9AE91}|C#LINQAssignment9.csproj|solutionrelative:exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "C#LINQAssignment9",
+              "DocumentMoniker": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\C#LINQAssignment9.csproj",
+              "RelativeDocumentMoniker": "C#LINQAssignment9.csproj",
+              "ToolTip": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\C#LINQAssignment9.csproj",
+              "RelativeToolTip": "C#LINQAssignment9.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-23T10:35:00.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercise11.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise11.cs",
+              "RelativeDocumentMoniker": "Exercise11.cs",
+              "ToolTip": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise11.cs",
+              "RelativeToolTip": "Exercise11.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:33:36.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercise9.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise9.cs",
+              "RelativeDocumentMoniker": "Exercise9.cs",
+              "ToolTip": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise9.cs",
+              "RelativeToolTip": "Exercise9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:26:40.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exercise7.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise7.cs",
+              "RelativeDocumentMoniker": "Exercise7.cs",
+              "ToolTip": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise7.cs",
+              "RelativeToolTip": "Exercise7.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwDsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:22:17.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exercise6.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise6.cs",
+              "RelativeDocumentMoniker": "Exercise6.cs",
+              "ToolTip": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise6.cs",
+              "RelativeToolTip": "Exercise6.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:19:37.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Exercise5.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise5.cs",
+              "RelativeDocumentMoniker": "Exercise5.cs",
+              "ToolTip": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise5.cs",
+              "RelativeToolTip": "Exercise5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:16:05.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "C#LINQAssignment9",
+              "DocumentMoniker": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\C#LINQAssignment9.csproj",
+              "RelativeDocumentMoniker": "C#LINQAssignment9.csproj",
+              "ToolTip": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\C#LINQAssignment9.csproj*",
+              "RelativeToolTip": "C#LINQAssignment9.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-23T09:47:30.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercise10.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise10.cs",
+              "RelativeDocumentMoniker": "Exercise10.cs",
+              "ToolTip": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise10.cs",
+              "RelativeToolTip": "Exercise10.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:28:12.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exercise8.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise8.cs",
+              "RelativeDocumentMoniker": "Exercise8.cs",
+              "ToolTip": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise8.cs",
+              "RelativeToolTip": "Exercise8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:24:38.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Exercise2.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise2.cs",
+              "RelativeDocumentMoniker": "Exercise2.cs",
+              "ToolTip": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise2.cs",
+              "RelativeToolTip": "Exercise2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:01:38.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Exercise3.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise3.cs",
+              "RelativeDocumentMoniker": "Exercise3.cs",
+              "ToolTip": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise3.cs",
+              "RelativeToolTip": "Exercise3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:59:09.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Exercise1.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise1.cs",
+              "RelativeDocumentMoniker": "Exercise1.cs",
+              "ToolTip": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise1.cs",
+              "RelativeToolTip": "Exercise1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:44:49.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Exercise4.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise4.cs",
+              "RelativeDocumentMoniker": "Exercise4.cs",
+              "ToolTip": "D:\\CTS.NET\\C#.NET\\HandsON\\C#LINQAssignment9\\Exercise4.cs",
+              "RelativeToolTip": "Exercise4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:03:15.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

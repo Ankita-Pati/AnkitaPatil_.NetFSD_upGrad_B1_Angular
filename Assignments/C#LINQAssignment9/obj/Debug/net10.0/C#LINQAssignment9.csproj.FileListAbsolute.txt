@@ -1,0 +1,15 @@
+D:\CTS.NET\C#.NET\HandsON\C#LINQAssignment9\bin\Debug\net10.0\C#LINQAssignment9.exe
+D:\CTS.NET\C#.NET\HandsON\C#LINQAssignment9\bin\Debug\net10.0\C#LINQAssignment9.deps.json
+D:\CTS.NET\C#.NET\HandsON\C#LINQAssignment9\bin\Debug\net10.0\C#LINQAssignment9.runtimeconfig.json
+D:\CTS.NET\C#.NET\HandsON\C#LINQAssignment9\bin\Debug\net10.0\C#LINQAssignment9.dll
+D:\CTS.NET\C#.NET\HandsON\C#LINQAssignment9\bin\Debug\net10.0\C#LINQAssignment9.pdb
+D:\CTS.NET\C#.NET\HandsON\C#LINQAssignment9\obj\Debug\net10.0\C#LINQAssignment9.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS.NET\C#.NET\HandsON\C#LINQAssignment9\obj\Debug\net10.0\C#LINQAssignment9.AssemblyInfoInputs.cache
+D:\CTS.NET\C#.NET\HandsON\C#LINQAssignment9\obj\Debug\net10.0\C#LINQAssignment9.AssemblyInfo.cs
+D:\CTS.NET\C#.NET\HandsON\C#LINQAssignment9\obj\Debug\net10.0\C#LINQAssignment9.csproj.CoreCompileInputs.cache
+D:\CTS.NET\C#.NET\HandsON\C#LINQAssignment9\obj\Debug\net10.0\C#LINQAssignment9.sourcelink.json
+D:\CTS.NET\C#.NET\HandsON\C#LINQAssignment9\obj\Debug\net10.0\C#LINQAssignment9.dll
+D:\CTS.NET\C#.NET\HandsON\C#LINQAssignment9\obj\Debug\net10.0\refint\C#LINQAssignment9.dll
+D:\CTS.NET\C#.NET\HandsON\C#LINQAssignment9\obj\Debug\net10.0\C#LINQAssignment9.pdb
+D:\CTS.NET\C#.NET\HandsON\C#LINQAssignment9\obj\Debug\net10.0\C#LINQAssignment9.genruntimeconfig.cache
+D:\CTS.NET\C#.NET\HandsON\C#LINQAssignment9\obj\Debug\net10.0\ref\C#LINQAssignment9.dll

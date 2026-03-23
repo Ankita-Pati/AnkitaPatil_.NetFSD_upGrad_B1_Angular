@@ -1,0 +1,15 @@
+D:\CTS.NET\Assignments\C#MultiThreadingAssignment10\bin\Debug\net10.0\C#MultiThreadingAssignment10.exe
+D:\CTS.NET\Assignments\C#MultiThreadingAssignment10\bin\Debug\net10.0\C#MultiThreadingAssignment10.deps.json
+D:\CTS.NET\Assignments\C#MultiThreadingAssignment10\bin\Debug\net10.0\C#MultiThreadingAssignment10.runtimeconfig.json
+D:\CTS.NET\Assignments\C#MultiThreadingAssignment10\bin\Debug\net10.0\C#MultiThreadingAssignment10.dll
+D:\CTS.NET\Assignments\C#MultiThreadingAssignment10\bin\Debug\net10.0\C#MultiThreadingAssignment10.pdb
+D:\CTS.NET\Assignments\C#MultiThreadingAssignment10\obj\Debug\net10.0\C#MultiThreadingAssignment10.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS.NET\Assignments\C#MultiThreadingAssignment10\obj\Debug\net10.0\C#MultiThreadingAssignment10.AssemblyInfoInputs.cache
+D:\CTS.NET\Assignments\C#MultiThreadingAssignment10\obj\Debug\net10.0\C#MultiThreadingAssignment10.AssemblyInfo.cs
+D:\CTS.NET\Assignments\C#MultiThreadingAssignment10\obj\Debug\net10.0\C#MultiThreadingAssignment10.csproj.CoreCompileInputs.cache
+D:\CTS.NET\Assignments\C#MultiThreadingAssignment10\obj\Debug\net10.0\C#MultiThreadingAssignment10.sourcelink.json
+D:\CTS.NET\Assignments\C#MultiThreadingAssignment10\obj\Debug\net10.0\C#MultiThreadingAssignment10.dll
+D:\CTS.NET\Assignments\C#MultiThreadingAssignment10\obj\Debug\net10.0\refint\C#MultiThreadingAssignment10.dll
+D:\CTS.NET\Assignments\C#MultiThreadingAssignment10\obj\Debug\net10.0\C#MultiThreadingAssignment10.pdb
+D:\CTS.NET\Assignments\C#MultiThreadingAssignment10\obj\Debug\net10.0\C#MultiThreadingAssignment10.genruntimeconfig.cache
+D:\CTS.NET\Assignments\C#MultiThreadingAssignment10\obj\Debug\net10.0\ref\C#MultiThreadingAssignment10.dll
