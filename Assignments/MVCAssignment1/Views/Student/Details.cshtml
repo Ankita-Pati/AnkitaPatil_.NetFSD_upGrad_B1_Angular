@@ -1,0 +1,39 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    @* <h2>Name: @ViewBag.Name</h2>
+    <h2>Age: @ViewBag.Age</h2>
+    <h2>@ViewData["Name"]</h2>
+    <h2>@ViewData["Age"]</h2> *@
+
+    @* @model Student
+    <h2>Name: @Model.Name</h2>
+    <h2>Age: @Model.Age</h2> *@
+
+    @model Student
+
+<h2>@ViewData["Message"]</h2>
+
+<p>Name: @Model.Name</p>
+<p>Age: @Model.Age</p>
+
+@if (Model.Age > 18)
+{
+    <p>Eligible</p>
+}
+else
+{
+    <p>Not Eligible</p>
+}
+</body>
+</html>
