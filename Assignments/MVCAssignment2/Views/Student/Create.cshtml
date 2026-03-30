@@ -1,0 +1,105 @@
+﻿@model Student
+
+<h2>Create Student</h2>
+
+<form asp-action="Create">
+
+    <table border="1" cellpadding="10">
+        <tr>
+            <td>Name</td>
+            <td><input asp-for="Name" /></td>
+        </tr>
+
+        <tr>
+            <td>Age</td>
+            <td><input asp-for="Age" /></td>
+        </tr>
+
+        <tr>
+            <td>Email</td>
+            <td><input asp-for="Email" /></td>
+        </tr>
+
+        <tr>
+            <td colspan="2">
+                <button type="submit">Create</button>
+            </td>
+        </tr>
+    </table>
+
+</form>
+
+@* using HTML Helpers *@
+@* <h2>Create Student</h2>
+@using (Html.BeginForm())
+{
+    <table border="1" cellpadding="10">
+        <tr>
+            <td>Name</td>
+            <td>
+                @Html.TextBoxFor(m => m.Name)
+                @Html.ValidationMessageFor(m => m.Name)
+            </td>
+        </tr>
+
+        <tr>
+            <td>Age</td>
+            <td>
+                @Html.TextBoxFor(m => m.Age)
+                @Html.ValidationMessageFor(m => m.Age)
+            </td>
+        </tr>
+
+        <tr>
+            <td>Email</td>
+            <td>
+                @Html.TextBoxFor(m => m.Email)
+                @Html.ValidationMessageFor(m => m.Email)
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="2">
+                <button type="submit">Submit</button>
+            </td>
+        </tr>
+    </table>
+} *@
+
+@* using Tag Helpers *@
+@* <h2>Create Student</h2>
+
+<form asp-action="Create" asp-controller="Student">
+
+    <table border="1" cellpadding="10">
+        <tr>
+            <td>Name</td>
+            <td>
+                <input asp-for="Name" />
+                <span asp-validation-for="Name"></span>
+            </td>
+        </tr>
+
+        <tr>
+            <td>Age</td>
+            <td>
+                <input asp-for="Age" />
+                <span asp-validation-for="Age"></span>
+            </td>
+        </tr>
+
+        <tr>
+            <td>Email</td>
+            <td>
+                <input asp-for="Email" />
+                <span asp-validation-for="Email"></span>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="2">
+                <button type="submit">Create</button>
+            </td>
+        </tr>
+    </table>
+</form> *@
