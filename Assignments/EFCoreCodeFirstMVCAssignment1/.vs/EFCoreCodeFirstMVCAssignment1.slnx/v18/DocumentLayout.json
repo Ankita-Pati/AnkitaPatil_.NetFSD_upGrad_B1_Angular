@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5C5CC0-73FB-48B7-AE62-B266F484C6F7}|EFCoreCodeFirstMVCAssignment1.csproj|d:\\cts.net\\assignments\\efcorecodefirstmvcassignment1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5C5CC0-73FB-48B7-AE62-B266F484C6F7}|EFCoreCodeFirstMVCAssignment1.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Views\\Account\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Account\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Views\\Account\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Account\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Views\\Account\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Account\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Views\\Account\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Account\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5C5CC0-73FB-48B7-AE62-B266F484C6F7}|EFCoreCodeFirstMVCAssignment1.csproj|d:\\cts.net\\assignments\\efcorecodefirstmvcassignment1\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5C5CC0-73FB-48B7-AE62-B266F484C6F7}|EFCoreCodeFirstMVCAssignment1.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5C5CC0-73FB-48B7-AE62-B266F484C6F7}|EFCoreCodeFirstMVCAssignment1.csproj|d:\\cts.net\\assignments\\efcorecodefirstmvcassignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5C5CC0-73FB-48B7-AE62-B266F484C6F7}|EFCoreCodeFirstMVCAssignment1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5C5CC0-73FB-48B7-AE62-B266F484C6F7}|EFCoreCodeFirstMVCAssignment1.csproj|d:\\cts.net\\assignments\\efcorecodefirstmvcassignment1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5C5CC0-73FB-48B7-AE62-B266F484C6F7}|EFCoreCodeFirstMVCAssignment1.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5C5CC0-73FB-48B7-AE62-B266F484C6F7}|EFCoreCodeFirstMVCAssignment1.csproj|d:\\cts.net\\assignments\\efcorecodefirstmvcassignment1\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE5C5CC0-73FB-48B7-AE62-B266F484C6F7}|EFCoreCodeFirstMVCAssignment1.csproj|solutionrelative:views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5C5CC0-73FB-48B7-AE62-B266F484C6F7}|EFCoreCodeFirstMVCAssignment1.csproj|d:\\cts.net\\assignments\\efcorecodefirstmvcassignment1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE5C5CC0-73FB-48B7-AE62-B266F484C6F7}|EFCoreCodeFirstMVCAssignment1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Migrations\\20260401114015_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260401114015_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Migrations\\20260401114552_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260401114552_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5C5CC0-73FB-48B7-AE62-B266F484C6F7}|EFCoreCodeFirstMVCAssignment1.csproj|d:\\cts.net\\assignments\\efcorecodefirstmvcassignment1\\efcorecodefirstmvcassignment1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE5C5CC0-73FB-48B7-AE62-B266F484C6F7}|EFCoreCodeFirstMVCAssignment1.csproj|solutionrelative:efcorecodefirstmvcassignment1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Views\\Account\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Details.cshtml",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Views\\Account\\Details.cshtml",
+              "RelativeToolTip": "Views\\Account\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T12:42:05.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Views\\Account\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Delete.cshtml",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Views\\Account\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Account\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T12:41:22.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Views\\Account\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Edit.cshtml",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Views\\Account\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Account\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T12:40:09.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Create.cshtml",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T12:37:54.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:47:12.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:23:14.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:25:49.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:20:06.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T11:58:44.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T11:33:02.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260401114015_InitialCreate.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Migrations\\20260401114015_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260401114015_InitialCreate.cs",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Migrations\\20260401114015_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260401114015_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:40:15.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260401114552_InitialCreate.cs",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Migrations\\20260401114552_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260401114552_InitialCreate.cs",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\Migrations\\20260401114552_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260401114552_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:45:53.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EFCoreCodeFirstMVCAssignment1",
+              "DocumentMoniker": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\EFCoreCodeFirstMVCAssignment1.csproj",
+              "RelativeDocumentMoniker": "EFCoreCodeFirstMVCAssignment1.csproj",
+              "ToolTip": "D:\\CTS.NET\\Assignments\\EFCoreCodeFirstMVCAssignment1\\EFCoreCodeFirstMVCAssignment1.csproj",
+              "RelativeToolTip": "EFCoreCodeFirstMVCAssignment1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-01T11:22:21.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
