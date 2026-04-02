@@ -1,0 +1,19 @@
+﻿@using EFCoreAssignment2.DBFirstModels
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+@model Teacher
+
+<form asp-action="Create">
+
+    <label asp-for="Name"></label>
+    <input asp-for="Name" />
+
+    <label>Department</label>
+    <select asp-for="DepartmentId" asp-items="ViewBag.Departments"></select>
+
+    <button type="submit">Save</button>
+</form>
+

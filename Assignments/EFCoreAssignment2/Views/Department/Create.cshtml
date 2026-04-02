@@ -1,0 +1,17 @@
+﻿@using EFCoreAssignment2.DBFirstModels
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+@model Department
+
+<h2>Create Department</h2>
+
+<form asp-action="Create">
+    <label asp-for="Name"></label>
+    <input asp-for="Name" />
+
+    <button type="submit">Save</button>
+</form>
+

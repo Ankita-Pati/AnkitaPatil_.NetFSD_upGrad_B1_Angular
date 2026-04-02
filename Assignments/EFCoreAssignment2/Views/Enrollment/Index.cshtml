@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model IEnumerable<Enrollment>
+
+<h2>Enrollments</h2>
+
+<a asp-action="Create">Add Enrollment</a>
+
+<table border="1">
+    <tr>
+        <th>Student</th>
+        <th>Course</th>
+        <th>Grade</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Student?.Name</td>
+            <td>@item.Course?.Title</td>
+            <td>@item.Grade</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+

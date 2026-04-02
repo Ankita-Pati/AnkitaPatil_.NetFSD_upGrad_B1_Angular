@@ -1,0 +1,17 @@
+﻿@using EFCoreAssignment2.DBFirstModels
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+@model Department
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="Id" />
+
+    <label asp-for="Name"></label>
+    <input asp-for="Name" />
+
+    <button type="submit">Update</button>
+</form>
+
