@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8N+fgKpFGGc=",
+  "success": true,
+  "projectFilePath": "D:\\CTS.NET\\Asp.net Core Rest Api\\WebApiAssignment1\\WebApiAssignment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patil\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\patil\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
