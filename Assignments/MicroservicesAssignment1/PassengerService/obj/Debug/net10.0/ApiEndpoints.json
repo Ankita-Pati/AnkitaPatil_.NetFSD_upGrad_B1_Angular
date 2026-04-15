@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "PassengerService.Controllers.PassengerController",
+    "Method": "Get",
+    "RelativePath": "api/Passenger",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PassengerService.Controllers.PassengerController",
+    "Method": "Post",
+    "RelativePath": "api/Passenger",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "passenger",
+        "Type": "PassengerService.Model.Passenger",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

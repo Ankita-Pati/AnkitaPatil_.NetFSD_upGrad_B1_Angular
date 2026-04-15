@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "BookingService.Controllers.BookingController",
+    "Method": "Get",
+    "RelativePath": "api/Booking",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookingService.Controllers.BookingController",
+    "Method": "Post",
+    "RelativePath": "api/Booking",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "booking",
+        "Type": "BookingService.Model.Booking",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
